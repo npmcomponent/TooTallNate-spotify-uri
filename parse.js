@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var url = require('url');
-var qs = require('querystring');
+var url = require('component-url');
+var qs = require('component-querystring');
 
 /**
  * Module exports.
